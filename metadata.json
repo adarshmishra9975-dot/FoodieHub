@@ -1,0 +1,7 @@
+{
+  "name": "FoodieHub – Food Ordering System",
+  "description": "A full-stack food ordering web application built with React, Node.js, Express, and MongoDB featuring customer ordering, cart, checkout, order tracking, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
